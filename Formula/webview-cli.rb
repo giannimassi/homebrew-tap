@@ -1,8 +1,8 @@
 class WebviewCli < Formula
   desc "Native macOS UIs for CLI AI agents"
   homepage "https://github.com/giannimassi/webview-cli"
-  url "https://github.com/giannimassi/webview-cli/archive/v0.1.1.tar.gz"
-  sha256 "8d2f03e4c1f270857994d179f1ed29c00995e46f4f30d89bf27a125ccf28102b"
+  url "https://github.com/giannimassi/webview-cli/archive/v0.1.2.tar.gz"
+  sha256 "5825e9febc524ad81e6f906c7c84473637c61d8852f9b6518f239d12c0f10eb9"
   license "MIT"
   head "https://github.com/giannimassi/webview-cli.git", branch: "main"
 
